@@ -1,0 +1,22 @@
+return {
+  "a", "ac", "accumsan", "ad", "adipiscing", "aenean", "aliqua", "aliquam", "aliquet", "amet", "anim", "ante", "aptent",
+  "arcu", "at", "auctor", "augue", "aute", "bibendum", "blandit", "cillum", "class", "commodo", "condimentum", "congue",
+  "consectetur", "consequat", "conubia", "convallis", "cras", "cubilia", "culpa", "cupidatat", "curabitur", "curae",
+  "cursus", "dapibus", "deserunt", "diam", "dictum", "dictumst", "dignissim", "dis", "do", "dolor", "dolore", "donec",
+  "dui", "duis", "ea", "efficitur", "egestas", "eget", "eiusmod", "eleifend", "elementum", "elit", "enim", "erat", "eros",
+  "esse", "est", "et", "etiam", "eu", "euismod", "ex", "excepteur", "exercitation", "facilisi", "facilisis", "fames",
+  "faucibus", "felis", "fermentum", "feugiat", "finibus", "fringilla", "fugiat", "fusce", "gravida", "habitant",
+  "habitasse", "hac", "hendrerit", "himenaeos", "iaculis", "id", "imperdiet", "in", "inceptos", "incididunt", "integer",
+  "interdum", "ipsum", "irure", "justo", "labore", "laboris", "laborum", "lacinia", "lacus", "laoreet", "lectus", "leo",
+  "libero", "ligula", "litora", "lobortis", "lorem", "luctus", "maecenas", "magna", "magnis", "malesuada", "massa",
+  "mattis", "mauris", "maximus", "metus", "mi", "minim", "molestie", "mollis", "mollit", "montes", "morbi", "mus", "nam",
+  "nascetur", "natoque", "nec", "neque", "netus", "nibh", "nisi", "nisl", "non", "nostra", "nostrud", "nulla", "nullam",
+  "nunc", "occaecat", "odio", "officia", "orci", "ornare", "pariatur", "parturient", "pellentesque", "penatibus", "per",
+  "pharetra", "phasellus", "placerat", "platea", "porta", "porttitor", "posuere", "potenti", "praesent", "pretium",
+  "primis", "proident", "proin", "pulvinar", "purus", "quam", "quis", "quisque", "reprehenderit", "rhoncus", "ridiculus",
+  "risus", "rutrum", "sagittis", "sapien", "scelerisque", "sed", "sem", "semper", "senectus", "sint", "sit", "sociosqu",
+  "sodales", "sollicitudin", "sunt", "suscipit", "suspendisse", "taciti", "tellus", "tempor", "tempus", "tincidunt",
+  "torquent", "tortor", "tristique", "turpis", "ullamco", "ullamcorper", "ultrices", "ultricies", "urna", "ut", "varius",
+  "vehicula", "vel", "velit", "veniam", "venenatis", "vestibulum", "vitae", "vivamus", "viverra", "voluptate", "volutpat",
+  "vulputate"
+}
